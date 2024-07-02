@@ -2,7 +2,7 @@
 
 Movie Listing Web App. A fun and personal project created by me.
 
-**Live App:** [Project Movie Fan](https://project-movie-fan.herokuapp.com/)
+**Live App:** [Project Movie Fan](https://valeriaachkan.github.io/project-movie-fan/)
 
 ## Description
 
